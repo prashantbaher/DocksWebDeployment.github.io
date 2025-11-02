@@ -2,31 +2,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/vba/userform/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/userform/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/open-part-from-userform/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/open-part-from-userform/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/open-assembly-and-drawing-from-userform/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/open-assembly-and-drawing-from-userform/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/testing-open-assembly-and-drawing-document-macro/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/testing-open-assembly-and-drawing-document-macro/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/browse-solidworks-file/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/browse-solidworks-file/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>

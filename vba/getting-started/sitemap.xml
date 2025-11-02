@@ -2,31 +2,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/vba/vba-Introduction/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/vba-Introduction/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/vba-vbe-editor/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/vba-vbe-editor/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/vba-windows/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/vba-windows/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/sub-and-function-procedure/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/sub-and-function-procedure/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/executing-procedures/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/executing-procedures/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>

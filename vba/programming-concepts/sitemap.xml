@@ -2,103 +2,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/vba/programming-concepts/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/programming-concepts/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/variables/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/variables/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/declaring-and-scoping-of-variables/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/declaring-and-scoping-of-variables/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/variable-scope/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/variable-scope/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/public-static-and-variables-life/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/public-static-and-variables-life/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/constants/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/constants/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/string-basics/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/string-basics/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/assignment-statements-and-operators/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/assignment-statements-and-operators/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/arrays/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/arrays/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/functions/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/functions/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/functions-that-do-more/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/functions-that-do-more/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/controlling-program-flow-and-making-decisions/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/controlling-program-flow-and-making-decisions/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/if-then-structure-select-case/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/if-then-structure-select-case/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/looping/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/looping/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/bug-finding/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/bug-finding/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/debugger/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/debugger/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/vba/bug-reduction-tips/</loc>
+      <loc>https://DocksWebDeployment.github.io/vba/bug-reduction-tips/</loc>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>

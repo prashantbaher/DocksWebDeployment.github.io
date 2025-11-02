@@ -2,38 +2,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/wix-tutorials/getting-started/</loc>
+      <loc>https://DocksWebDeployment.github.io/wix-tutorials/getting-started/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/knowledge-base/wix4-introduction/</loc>
+        <loc>https://DocksWebDeployment.github.io/knowledge-base/wix4-introduction/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/knowledge-base/wix-vs-extension/</loc>
+        <loc>https://DocksWebDeployment.github.io/knowledge-base/wix-vs-extension/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/knowledge-base/wix-understand-project/</loc>
+        <loc>https://DocksWebDeployment.github.io/knowledge-base/wix-understand-project/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/knowledge-base/wix-add-remove-program-details/</loc>
+        <loc>https://DocksWebDeployment.github.io/knowledge-base/wix-add-remove-program-details/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/knowledge-base/wix-add-desktop-icon/</loc>
+        <loc>https://DocksWebDeployment.github.io/knowledge-base/wix-add-desktop-icon/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/knowledge-base/wix-add-menu-folder-icon/</loc>
+        <loc>https://DocksWebDeployment.github.io/knowledge-base/wix-add-menu-folder-icon/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>

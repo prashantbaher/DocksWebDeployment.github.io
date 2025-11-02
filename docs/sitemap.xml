@@ -2,21 +2,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/docs/example-guide/</loc>
+      <loc>https://DocksWebDeployment.github.io/docs/example-guide/</loc>
       <lastmod>2023-09-07T16:04:48+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/example-reference/</loc>
+      <loc>https://DocksWebDeployment.github.io/docs/example-reference/</loc>
       <lastmod>2023-09-07T16:13:18+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/resources/</loc>
+      <loc>https://DocksWebDeployment.github.io/docs/resources/</loc>
       <lastmod>2024-02-27T09:30:56+01:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

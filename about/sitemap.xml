@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/aboutMe/</loc>
+      <loc>https://DocksWebDeployment.github.io/aboutMe/</loc>
       <lastmod>2025-07-09T00:00:00+00:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
